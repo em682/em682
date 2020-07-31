@@ -8,4 +8,4 @@ Currently working on...
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umcody&repo=runaway)](https://github.com/umcody/runaway)
 
-
+<img align="left" alt="Simple Farmer" src="https://i.kym-cdn.com/entries/icons/original/000/028/021/work.jpg" />
